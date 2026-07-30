@@ -21,3 +21,7 @@ Thumbs.db
 # Temp
 *.tmp
 *.temp
+
+# Publish scripts
+_publish.py
+
