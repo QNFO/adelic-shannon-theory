@@ -17,7 +17,7 @@ This paper advances beyond the research design "Adelic Shannon Theory: A Researc
 
 ## Status
 
-**Draft** — awaiting Zenodo DOI assignment and D1 living-paper registration.
+**Published** — v2.1 (DOI: [10.5281/zenodo.21698976](https://doi.org/10.5281/zenodo.21698976)).
 
 ## Related Work
 
