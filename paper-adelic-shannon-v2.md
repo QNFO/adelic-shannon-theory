@@ -1,9 +1,9 @@
 ---
 title: "Adelic Shannon Theory: From Problem Statement to Constructive Foundations"
 author: "Rowan Brad Quni-Gudzinas"
-date: "2026-07-30"
+date: "2026-08-20"
 license: "CC-BY-4.0"
-doi: "10.5281/zenodo.21698976"
+doi: "10.5281/zenodo.22024240"
 status: "published"
 ---
 
